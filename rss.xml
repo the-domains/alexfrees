@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[alexfrees]]></title>
         <description><![CDATA[alexfrees]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alexfrees/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 19:44:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 00:38:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alexfrees/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefineda9c14804-99cf-4aff-9c87-53c27650f552/index.html</link>
+            <description><![CDATA[<img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xap1/v/t1.0-9/12688158_1140320389312097_4727816441395530289_n.jpg?oh=6c247c4ba5cf97a7b22342b688b2d7ed&oe=5764BB4C">]]></description>
+            <link>https://thegrid.ai/alexfrees/37357397-9b4f-4fe3-add7-4160d1b0ff2a/index.html</link>
+            <guid isPermaLink="false">37357397-9b4f-4fe3-add7-4160d1b0ff2a</guid>
+            <pubDate>Thu, 25 Feb 2016 00:38:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi I'm Alex</p>]]></description>
+            <link>https://thegrid.ai/alexfrees/a9c14804-99cf-4aff-9c87-53c27650f552/index.html</link>
             <guid isPermaLink="false">a9c14804-99cf-4aff-9c87-53c27650f552</guid>
             <pubDate>Wed, 24 Feb 2016 19:44:01 GMT</pubDate>
         </item>
